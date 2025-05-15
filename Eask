@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "trinary" "1.2.1" "Trinary logic.")
 
 (website-url "https://github.com/emacs-elsa/trinary-logic")
